@@ -2,7 +2,7 @@
 ![02011ec8554277b8c70bf22fb192123c (1)](https://github.com/user-attachments/assets/a4bbcb8e-4369-458d-9bc7-bcdda5d79a0b)
 ## 👨🏻‍💻 About Me:
 - 🎓I am an Undergrad at IIIT Jabalpur.
-- 🌱 I am currently learning spring framework and related technologies.
+- 🌱 I am currently learning MERN and related technologies.
 - 🔭 I am currently working on personal projects and learning cool stuffs.
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
