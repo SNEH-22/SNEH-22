@@ -58,4 +58,4 @@
 
 ## 👀 Visitors:
 <!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
-![Visitors](https://moe-counter.glitch.me/get/@SNEH-22?theme=rule34)devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+![Visitors](https://moe-counter.glitch.me/get/@SNEH-22?theme=rule34)
