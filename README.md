@@ -1,14 +1,5 @@
 
-![dd2f1370fc8468c40d35573130eaecc7_DNuxJ6Dq](https://github.com/user-attachments/assets/26bb53c4-4c4c-47c9-8cb4-ae543e4f747f)
-
-![dd2f1370fc8468c40d35573130eaecc7](https://github.com/user-attachments/assets/902fe25e-e433-4fdc-9555-f333c9e74ce9)
-
-
-
-
-![photo_2024-10-08_19-32-16](https://github.com/user-attachments/assets/cfa896f8-3ecd-4fab-9ea7-9e712c209d19)
-
-
+![02011ec8554277b8c70bf22fb192123c (1)](https://github.com/user-attachments/assets/a4bbcb8e-4369-458d-9bc7-bcdda5d79a0b)
 ## 👨🏻‍💻 About Me:
 - 🎓I am an Undergrad at IIIT Jabalpur.
 - 🌱 I am currently learning spring framework and related technologies.
