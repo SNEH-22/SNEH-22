@@ -6,6 +6,7 @@
 
 
 
+![photo_2024-10-08_19-32-16](https://github.com/user-attachments/assets/cfa896f8-3ecd-4fab-9ea7-9e712c209d19)
 
 
 ## 👨🏻‍💻 About Me:
