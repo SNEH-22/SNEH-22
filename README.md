@@ -1,5 +1,5 @@
 <h1 align="center">Hi^_^, I'm SANYAM SNEH</h1>
-<h3 align="center">A passionate Competitive Programming Enthusiast from India!</h3>
+<h3 align="center">I can Code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sneh-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneh-22" /> </p>
 
