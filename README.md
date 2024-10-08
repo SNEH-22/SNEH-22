@@ -12,6 +12,7 @@
 [<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:heysanyamsneh@gmail.com)
 [<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/sanyam-sneh-911896257)
 </p>
+<img src="https://raw.githubusercontent.com/SNEH-22/SNEH-22/output/snake.svg" width = 1500 alt="Snake animation" />
 
 ## 💼 Technical Skills:
 
