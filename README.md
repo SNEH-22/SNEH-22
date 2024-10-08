@@ -1,19 +1,61 @@
-<h1 align="center">Hi^_^, I'm SANYAM SNEH</h1>
-<h3 align="center">I can Code!</h3>
+![mario](https://github.com/user-attachments/assets/7f15872b-0eb6-41d3-a181-5807b938481f)
+![github-user-contribution](https://github.com/user-attachments/assets/8300b12b-170c-4d4f-9d09-3aefd8974ee6)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sneh-22&label=Profile%20views&color=0e75b6&style=flat" alt="sneh-22" /> </p>
+## 👨🏻‍💻 About Me:
+- 🎓I am an Undergrad at IIIT Jabalpur.
+- 🌱 I am currently learning spring framework and related technologies.
+- 🔭 I am currently working on personal projects and learning cool stuffs.
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sneh-22" alt="sneh-22" /></a> </p>
+## :mailbox: Contact:
+<p align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+[<img src="https://cdn2.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_gmail-64.png"/>](mailto:heysanyamsneh@gmail.com)
+[<img target="_blank" src="https://cdn4.iconfinder.com/data/icons/colorful-guache-social-media-logos-1/159/social-media_linkedin-64.png"/>](https://www.linkedin.com/in/sanyam-sneh-911896257)
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 💼 Technical Skills:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sneh-22&show_icons=true&locale=en&layout=compact" alt="sneh-22" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,py" />
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sneh-22&show_icons=true&locale=en" alt="sneh-22" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneh-22&" alt="sneh-22" /></p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,githubvscode,visualstudio" />
+  </a>
+</p>
+
+<br>
+
+## 📊 Coding Activity:
+
+<!--START_SECTION:waka-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/SNEH-22?theme=dark&font=Poppins&ext=heatmap)
+
+<!--END_SECTION:waka-->
+
+<br>
+
+## 📈 GitHub Stats:
+![Piyusss's Stats](https://github-readme-stats.vercel.app/api?username=SNEH-22&theme=dracula&show_icons=true&hide_border=false&count_private=false)
+
+<br>
+
+## 👀 Visitors:
+<!-- ![Visitors](https://profile-counter.glitch.me/importlogic/count.svg) -->
+![Visitors](https://moe-counter.glitch.me/get/@SNEH-22?theme=rule34)devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
