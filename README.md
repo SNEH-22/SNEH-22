@@ -1,7 +1,7 @@
-![mario](https://github.com/user-attachments/assets/7f15872b-0eb6-41d3-a181-5807b938481f)
+![mario](https://github.com/user-attachments/assets/e6822104-1572-4f67-bcd7-904e75adc3f4)
 
 
-https://github.com/user-attachments/assets/e6822104-1572-4f67-bcd7-904e75adc3f4
+
 
 
 ## 👨🏻‍💻 About Me:
