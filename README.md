@@ -2,7 +2,7 @@
 
 ## 👨🏻‍🔧 About Me:
 - 🎓 I am an Undergrad at IIIT Jabalpur, pursuing Mechanical Engineering.  
-- 🌱 I am currently learning robotics, digital twin simulations, and predictive maintenance.  
+- 🌱 I am currently learning robotics, Design simulations, and prototyping.  
 - 🔭 I am currently working on CAD modeling, mechanical projects, and simulations.  
 - 💬 Feel free to reach out for questions or feedback about my projects or engineering work!  
 
@@ -37,12 +37,6 @@
 </p>
 
 ---
-
-## 📊 Projects & Activity:
-
-- **Robotic Arm Automation** – CAD modeling, ROS integration, and pick-and-place simulation.  
-- **Predictive Maintenance System** – MATLAB/Simulink analysis for motor vibration data.  
-- **Digital Twin Conveyor System** – Real-time simulation in ANSYS & SolidWorks.  
 
 ---
 
